@@ -7,6 +7,6 @@ In this project the objective was to provide weather analysis to an investor of 
 
 The results for the queries are as shown below. 
 
-![image](https://user-images.githubusercontent.com/85713568/138578866-d9c61568-b860-4de1-945c-68509c51b0fc.png)
+![image](https://user-images.githubusercontent.com/85713568/138578912-4356c96f-9bae-4af3-85c7-1a4d19dbc6a7.png)
 ![image](https://user-images.githubusercontent.com/85713568/138578875-bb6a9ed5-6fa2-41ad-8c60-0be1a7ada0db.png)
 
